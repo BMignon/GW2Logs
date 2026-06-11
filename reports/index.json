@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260610-210012-smdv",
+      "title": "Lucius Hackworth",
+      "commanders": [
+        "Lucius Hackworth"
+      ],
+      "dateStart": "2026-06-11T02:00:12.000Z",
+      "dateEnd": "2026-06-11T02:32:45.000Z",
+      "dateLabel": "6/10/2026, 9:00:12 PM - 6/10/2026, 9:32:45 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260610-210012-smdv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 37
+      }
+    }
+  ]
+}
