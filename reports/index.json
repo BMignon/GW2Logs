@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-210806-pdog",
+      "title": "Shacodd Cloudshaper, Shacodd The Astute",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd The Astute"
+      ],
+      "dateStart": "2026-06-12T02:08:06.000Z",
+      "dateEnd": "2026-06-12T03:25:49.000Z",
+      "dateLabel": "6/11/2026, 9:08:06 PM - 6/11/2026, 10:25:49 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260611-210806-pdog",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 7,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260610-210012-6j3e",
       "title": "Lucius Hackworth",
       "commanders": [
