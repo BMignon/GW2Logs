@@ -4,6 +4,60 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-210652-72ft",
+      "title": "Shacodd Cloudshaper, Shacodd Mistsgaze",
+      "commanders": [
+        "Shacodd Cloudshaper",
+        "Shacodd Mistsgaze"
+      ],
+      "dateStart": "2026-06-14T02:06:52.000Z",
+      "dateEnd": "2026-06-14T04:16:31.000Z",
+      "dateLabel": "6/13/2026, 9:06:52 PM - 6/13/2026, 11:16:31 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260613-210652-72ft",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Harvest Temple",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Temple of Febe",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260612-211457-j3pw",
       "title": "D A N T E S Ínferno",
       "commanders": [
