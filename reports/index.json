@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-202645-7hha",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-06-15T01:26:45.000Z",
+      "dateEnd": "2026-06-15T03:11:22.000Z",
+      "dateLabel": "6/14/2026, 8:26:45 PM - 6/14/2026, 10:11:22 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260614-202645-7hha",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260613-210652-72ft",
       "title": "Shacodd Cloudshaper, Shacodd Mistsgaze",
       "commanders": [
