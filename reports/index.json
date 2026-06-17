@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-211616-48an",
+      "title": "Bitte Mignon",
+      "commanders": [
+        "Bitte Mignon"
+      ],
+      "dateStart": "2026-06-17T02:16:16.000Z",
+      "dateEnd": "2026-06-17T03:55:53.000Z",
+      "dateLabel": "6/16/2026, 9:16:16 PM - 6/16/2026, 10:55:53 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260616-211616-48an",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Slothasor",
+            "value": 6,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Aetherblade Hideout",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Icebrood Construct",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260615-211745-zujz",
       "title": "Corianna Proudmoore, Meester Dopie, Swarm Of Fish",
       "commanders": [
