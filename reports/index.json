@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-222825-db5p",
+      "title": "Bitte Mignon",
+      "commanders": [
+        "Bitte Mignon"
+      ],
+      "dateStart": "2026-06-18T03:28:25.000Z",
+      "dateEnd": "2026-06-18T04:00:34.000Z",
+      "dateLabel": "6/17/2026, 10:28:25 PM - 6/17/2026, 11:00:34 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260617-222825-db5p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Cardinal Sabir",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Super Kodan Brothers",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 2
+      }
+    },
+    {
       "id": "20260616-211616-48an",
       "title": "Bitte Mignon",
       "commanders": [
