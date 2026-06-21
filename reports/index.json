@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-131437-bphz",
+      "title": "Use Zorrics Link",
+      "commanders": [
+        "Use Zorrics Link"
+      ],
+      "dateStart": "2026-06-21T18:14:37.000Z",
+      "dateEnd": "2026-06-21T19:38:46.000Z",
+      "dateLabel": "6/21/2026, 1:14:37 PM - 6/21/2026, 2:38:46 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260621-131437-bphz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260617-222825-db5p",
       "title": "Bitte Mignon",
       "commanders": [
