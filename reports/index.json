@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-202207-gtd4",
+      "title": "Lucius Hackworth, P L A T I N U M",
+      "commanders": [
+        "Lucius Hackworth",
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-06-25T01:22:07.000Z",
+      "dateEnd": "2026-06-25T02:35:57.000Z",
+      "dateLabel": "6/24/2026, 8:22:07 PM - 6/24/2026, 9:35:57 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260624-202207-gtd4",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260624-202207-qsnr",
       "title": "Lucius Hackworth, P L A T I N U M",
       "commanders": [
