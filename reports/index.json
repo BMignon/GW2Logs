@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-210729-c8tn",
+      "title": "Swarm Of Fish",
+      "commanders": [
+        "Swarm Of Fish"
+      ],
+      "dateStart": "2026-06-27T02:07:29.000Z",
+      "dateEnd": "2026-06-27T03:37:46.000Z",
+      "dateLabel": "6/26/2026, 9:07:29 PM - 6/26/2026, 10:37:46 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260626-210729-c8tn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260624-202207-gtd4",
       "title": "Lucius Hackworth, P L A T I N U M",
       "commanders": [
