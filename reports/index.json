@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-205837-iyvi",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-06-29T01:58:37.000Z",
+      "dateEnd": "2026-06-29T02:41:22.000Z",
+      "dateLabel": "6/28/2026, 8:58:37 PM - 6/28/2026, 9:41:22 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260628-205837-iyvi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260626-210729-c8tn",
       "title": "Swarm Of Fish",
       "commanders": [
