@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-211214-0xpx",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-07-18T02:12:14.000Z",
+      "dateEnd": "2026-07-18T03:04:03.000Z",
+      "dateLabel": "7/17/2026, 9:12:14 PM - 7/17/2026, 10:04:03 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260717-211214-0xpx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260710-210853-4pho",
       "title": "P L A T I N U M",
       "commanders": [
