@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-205733-6j84",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "dateStart": "2026-07-20T01:57:33.000Z",
+      "dateEnd": "2026-07-20T02:55:27.000Z",
+      "dateLabel": "7/19/2026, 8:57:33 PM - 7/19/2026, 9:55:27 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260719-205733-6j84",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260712-214629-7dk5",
       "title": "Karacala, Shacodd The Elegant",
       "commanders": [
