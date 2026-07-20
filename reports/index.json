@@ -4,6 +4,50 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-214629-7dk5",
+      "title": "Karacala, Shacodd The Elegant",
+      "commanders": [
+        "Karacala",
+        "Shacodd The Elegant"
+      ],
+      "dateStart": "2026-07-13T02:46:29.000Z",
+      "dateEnd": "2026-07-19T04:45:15.000Z",
+      "dateLabel": "7/12/2026, 9:46:29 PM - 7/18/2026, 11:45:15 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260712-214629-7dk5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Guardian's Glade",
+            "value": 25,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xunlai Jade Junkyard",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Old Lion's Court",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260717-211214-0xpx",
       "title": "P L A T I N U M",
       "commanders": [
