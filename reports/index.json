@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-210925-20sd",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "dateStart": "2026-07-25T02:09:25.000Z",
+      "dateEnd": "2026-07-25T03:21:09.000Z",
+      "dateLabel": "7/24/2026, 9:09:25 PM - 7/24/2026, 10:21:09 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260724-210925-20sd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260719-205733-6j84",
       "title": "Meester Dopie",
       "commanders": [
