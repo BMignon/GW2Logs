@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-232558-ditt",
+      "title": "Novahh X",
+      "commanders": [
+        "Novahh X"
+      ],
+      "dateStart": "2026-07-26T04:25:58.000Z",
+      "dateEnd": "2026-07-26T06:05:53.000Z",
+      "dateLabel": "7/25/2026, 11:25:58 PM - 7/26/2026, 1:05:53 AM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260725-232558-ditt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260724-210925-20sd",
       "title": "P L A T I N U M",
       "commanders": [
