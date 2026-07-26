@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-135843-xn2j",
+      "title": "Sebby S L",
+      "commanders": [
+        "Sebby S L"
+      ],
+      "dateStart": "2026-07-26T18:58:43.000Z",
+      "dateEnd": "2026-07-26T20:04:18.000Z",
+      "dateLabel": "7/26/2026, 1:58:43 PM - 7/26/2026, 3:04:18 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260726-135843-xn2j",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260725-232558-ditt",
       "title": "Novahh X",
       "commanders": [
