@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-210838-u0nw",
+      "title": "D A N T E S Inferno",
+      "commanders": [
+        "D A N T E S Inferno"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-01T02:08:38.000Z",
+      "dateEnd": "2026-08-01T03:07:49.000Z",
+      "dateLabel": "7/31/2026, 9:08:38 PM - 7/31/2026, 10:07:49 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260731-210838-u0nw",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260726-135843-xn2j",
       "title": "Sebby S L",
       "commanders": [
