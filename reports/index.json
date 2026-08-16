@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-234550-xp9n",
+      "title": "On Desh",
+      "commanders": [
+        "On Desh"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-16T04:45:50.000Z",
+      "dateEnd": "2026-08-16T05:29:13.000Z",
+      "dateLabel": "8/15/2026, 11:45:50 PM - 8/16/2026, 12:29:13 AM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260815-234550-xp9n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260814-211113-c1s7",
       "title": "P L A T I N U M",
       "commanders": [
