@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-195928-px71",
+      "title": "K A L A D Í N",
+      "commanders": [
+        "K A L A D Í N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-10T00:59:28.000Z",
+      "dateEnd": "2026-09-10T01:44:56.086Z",
+      "dateLabel": "9/9/2026, 7:59:28 PM - 9/9/2026, 8:44:56 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260909-195928-px71",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260908-210517-eztp",
       "title": "Shacodd The Sly",
       "commanders": [
