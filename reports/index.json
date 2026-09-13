@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-210856-z6d5",
+      "title": "Shacodd The Sly",
+      "commanders": [
+        "Shacodd The Sly"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-13T02:08:56.000Z",
+      "dateEnd": "2026-09-13T04:04:00.368Z",
+      "dateLabel": "9/12/2026, 9:08:56 PM - 9/12/2026, 11:04:00 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260912-210856-z6d5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 11,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 1
+      }
+    },
+    {
       "id": "20260909-195928-px71",
       "title": "K A L A D Í N",
       "commanders": [
