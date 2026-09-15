@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-200707-jclj",
+      "title": "Pixel Paper Doll",
+      "commanders": [
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-15T01:07:07.000Z",
+      "dateEnd": "2026-09-15T01:55:08.720Z",
+      "dateLabel": "9/14/2026, 8:07:07 PM - 9/14/2026, 8:55:08 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260914-200707-jclj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260912-210856-lcdc",
       "title": "Shacodd The Sly",
       "commanders": [
