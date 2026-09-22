@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-201120-qeyz",
+      "title": "K A L A D Î N",
+      "commanders": [
+        "K A L A D Î N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-22T01:11:20.000Z",
+      "dateEnd": "2026-09-22T02:17:54.064Z",
+      "dateLabel": "9/21/2026, 8:11:20 PM - 9/21/2026, 9:17:54 PM",
+      "url": "https://BMignon.github.io/GW2Logs/?report=20260921-201120-qeyz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260920-200924-zf9v",
       "title": "Meester Dopie",
       "commanders": [
