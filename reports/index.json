@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261106-210629-2g0j",
+      "title": "D A N T E S Ínferno",
+      "commanders": [
+        "D A N T E S Ínferno"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-07T03:06:29.000Z",
+      "dateEnd": "2026-11-07T04:35:51.774Z",
+      "dateLabel": "11/6/2026, 9:06:29 PM - 11/6/2026, 10:35:51 PM",
+      "url": "https://bmignon.github.io/GW2Logs/?report=20261106-210629-2g0j",
+      "publishedBy": "BMignon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20261106-210629-jzxp",
       "title": "D A N T E S Ínferno",
       "commanders": [
