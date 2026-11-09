@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.23.0"
   },
   "entries": [
+    {
+      "id": "20261108-202635-v8xk",
+      "title": "P L A T I N U M",
+      "commanders": [
+        "P L A T I N U M"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-09T02:26:35.000Z",
+      "dateEnd": "2026-11-09T03:55:57.420Z",
+      "dateLabel": "11/8/2026, 8:26:35 PM - 11/8/2026, 9:55:57 PM",
+      "url": "https://bmignon.github.io/GW2Logs/?report=20261108-202635-v8xk",
+      "publishedBy": "BMignon",
+      "summary": {
+        "borderlandsPct": 0.6086956521739131,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261106-210629-2g0j",
       "title": "D A N T E S Ínferno",
