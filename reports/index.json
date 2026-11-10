@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261109-202436-bcz2",
+      "title": "Dantes Infernö, Líttle Luffy",
+      "commanders": [
+        "Dantes Infernö",
+        "Líttle Luffy"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-10T02:24:36.000Z",
+      "dateEnd": "2026-11-10T03:18:37.145Z",
+      "dateLabel": "11/9/2026, 8:24:36 PM - 11/9/2026, 9:18:37 PM",
+      "url": "https://bmignon.github.io/GW2Logs/?report=20261109-202436-bcz2",
+      "publishedBy": "BMignon",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261108-202635-to5h",
       "title": "P L A T I N U M",
       "commanders": [
