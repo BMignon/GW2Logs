@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261116-202207-426h",
+      "title": "Dantes Infernö",
+      "commanders": [
+        "Dantes Infernö"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-11-17T02:22:07.000Z",
+      "dateEnd": "2026-11-17T03:04:20.253Z",
+      "dateLabel": "11/16/2026, 8:22:07 PM - 11/16/2026, 9:04:20 PM",
+      "url": "https://bmignon.github.io/GW2Logs/?report=20261116-202207-426h",
+      "publishedBy": "BMignon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261113-200926-tm6c",
       "title": "K A L A D Í N",
       "commanders": [
